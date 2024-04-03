@@ -50,12 +50,6 @@
 #
 
 ### 📊 Github Stats
-
-<div>
-    <a href="https://github.com/ZacharyTa">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZacharyTa&layout=compact&theme=tokyonight&langs_count=6" />
-    </a>
-</div>
-
-![Zachary's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZacharyTa&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZacharyTa&theme=github_dark&exclude=java)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZacharyTa&theme=github_dark)
 ![Zachary's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZacharyTa&theme=github_dark)
