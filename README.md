@@ -4,7 +4,6 @@
 
 ⁤Hello! ⁤⁤I'm a CS senior at UCR, deeply engaged in data engineering, product creation, and powerlifting. ⁤⁤With experience across work, school, and personal projects, I view data as criticalᅳrequiring precise management from extraction to analysis for solving complex problems. ⁤⁤Aiming to merge analytical skills with product creation, I'm focused on excelling as a Fullstack or Data Engineer, building resilient, innovative solutions. ⁤
 
-
 ---
 ### 🧰 Languages and Tools
 
@@ -21,35 +20,42 @@
 
 #### Backend Development
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" />
 <img align="left" alt="SQLite" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg" />
 <br />
 
 #### Data Engineering
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" />
 <img align="left" alt="Google Cloud Platform" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/googlecloud/googlecloud-original.svg" />
 <img align="left" alt="MicrosoftSQLServer" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 <br />
 
 #### Data Analytics
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original.svg" />
 <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/numpy/numpy-original.svg" />
-<img align="left" alt="Seaborn" width="30px" style="padding-right:10px;" src="" />
+<img align="left" alt="Seaborn" width="30px" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
 <img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original.svg" />
 <img align="left" alt="Scikit-learn" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" />
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jupyter/jupyter-original.svg" />
 <br />
 
 #### Testing
-<br />
 <img align="left" alt="Jest" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" />
-<img align="left" alt="Pytest" width="30px" style="padding-right:10px;" src="pytest	https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" />
+<img align="left" alt="Pytest" width="30px" style="padding-right:10px;" src="https://reverbc.gallerycdn.vsassets.io/extensions/reverbc/vscode-pytest/0.1.1/1617123275355/Microsoft.VisualStudio.Services.Icons.Default" />
 <br />
 
 #
 
 ### 📊 Github Stats
+
+<div>
+    <a href="https://github.com/ZacharyTa">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZacharyTa&layout=compact&theme=tokyonight&langs_count=6" />
+    </a>
+</div>
 
 ![Zachary's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZacharyTa&theme=github_dark)
 ![Zachary's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZacharyTa&theme=github_dark)
