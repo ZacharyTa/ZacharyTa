@@ -1,8 +1,9 @@
-# 🏄‍♂️ Zachary Ta
+![Zachary Ta's card name](https://cardivo.vercel.app/api?name=Zachary&description=Hello,%20i%27m%20a%20fullstack%20and%20data%20engineer%20and%20i%27m%2021%20years%20old%20Nice%20to%20meet%20you!%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/71954671?v=4&backgroundColor=%23ecf0f1&linkedin=Zachary%Ta&github=ZacharyTa&pattern=floatingCogs&colorPattern=%23eaeaea)
 
-**`Student (Developer/Powerlifter)`**
+**`Student (Developer/Powerlifting)`**
 
-Insert Background here and career aspirations
+⁤Hello! ⁤⁤I'm a CS senior at UCR, deeply engaged in data engineering, product creation, and powerlifting. ⁤⁤With experience across work, school, and personal projects, I view data as criticalᅳrequiring precise management from extraction to analysis for solving complex problems. ⁤⁤Aiming to merge analytical skills with product creation, I'm focused on excelling as a Fullstack or Data Engineer, building resilient, innovative solutions. ⁤
+
 
 ---
 ### 🧰 Languages and Tools
@@ -48,25 +49,7 @@ Insert Background here and career aspirations
 
 #
 
-### 📺 Latest Projects
-
-<!-- BEGIN Project Cards -->
-
-
-<!-- END project Cards -->
-
-#
-
-### 📊 Stats
+### 📊 Github Stats
 
 ![Zachary's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZacharyTa&theme=github_dark)
 ![Zachary's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZacharyTa&theme=github_dark)
-
-#
-
-<details>
- <summary><h3>👨‍💻 Zachary's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
-
-[Powerlifting Website]: [https://fkcodes.com](https://powerlifting-project.vercel.app/)
-[LinkedIn]: [https://youtube.com/fknight](https://www.linkedin.com/in/zacharycta/)
