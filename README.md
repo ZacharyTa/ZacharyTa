@@ -1,8 +1,8 @@
-![Zachary Ta's card name](https://cardivo.vercel.app/api?name=Zachary&description=Hello,%20i%27m%20a%20fullstack%20and%20data%20engineer%20and%20i%27m%2021%20years%20old%20Nice%20to%20meet%20you!%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/71954671?v=4&backgroundColor=%23ecf0f1&linkedin=Zachary%Ta&github=ZacharyTa&pattern=floatingCogs&colorPattern=%23eaeaea)
+![Zachary Ta's card name](https://cardivo.vercel.app/api?name=Zachary&description=Hello,%20I%27m%20a%20fullstack%20engineer.%20Nice%20to%20meet%20ya!%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/71954671?v=4&backgroundColor=%23ecf0f1&linkedin=Zachary%Ta&github=ZacharyTa&pattern=floatingCogs&colorPattern=%23eaeaea)
 
-**`Student (Developer/Powerlifting)`**
+**`New Grad (Homeless)`**
 
-⁤Hello! ⁤⁤I'm a CS senior at UCR, deeply engaged in data engineering, product creation, and powerlifting. ⁤⁤With experience across work, school, and personal projects, I view data as criticalᅳrequiring precise management from extraction to analysis for solving complex problems. ⁤⁤Aiming to merge analytical skills with product creation, I'm focused on excelling as a Fullstack or Data Engineer, building resilient, innovative solutions. ⁤
+Software engineer focused on building reliable LLM-powered and full-stack applications, from backend services to user-facing products
 
 ---
 ### 🧰 Languages and Tools
