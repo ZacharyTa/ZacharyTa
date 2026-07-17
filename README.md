@@ -1,54 +1,43 @@
-![Zachary Ta's card name](https://cardivo.vercel.app/api?name=Zachary&description=Hello,%20I%27m%20a%20fullstack%20engineer.%20Nice%20to%20meet%20ya!%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/71954671?v=4&backgroundColor=%23ecf0f1&linkedin=Zachary%Ta&github=ZacharyTa&pattern=floatingCogs&colorPattern=%23eaeaea)
+# hey its zach!
 
-**`Founding Fullstack Software Engineer @ Voker (YCS24)`**
+**founding fullstack engineer**
 
-Software engineer focused on building reliable LLM-powered and full-stack applications, from backend services to user-facing products
+currently building at Voker (YC S24)
 
----
-### 🧰 Languages and Tools
+## tech stuff i like
 
-#### Frontend Development
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="Vercel" width="30px" style="padding-right:10px;" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/vercel/vercel-light.svg" />
-<img align="left" alt="NPM" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" />
-<br />
+**languages**
 
-#### Backend Development
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" />
-<img align="left" alt="SQLite" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg" />
-<br />
+![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![sql](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-#### Data Engineering
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" />
-<img align="left" alt="Google Cloud Platform" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/googlecloud/googlecloud-original.svg" />
-<img align="left" alt="MicrosoftSQLServer" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-<br />
+**backend**
 
-#### Data Analytics
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" />
-<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original.svg" />
-<img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/numpy/numpy-original.svg" />
-<img align="left" alt="Seaborn" width="30px" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
-<img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original.svg" />
-<img align="left" alt="Scikit-learn" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" />
-<img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jupyter/jupyter-original.svg" />
-<br />
+![fastapi](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![postgresql](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+![pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 
-#### Testing
-<img align="left" alt="Jest" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" />
-<img align="left" alt="Pytest" width="30px" style="padding-right:10px;" src="https://reverbc.gallerycdn.vsassets.io/extensions/reverbc/vscode-pytest/0.1.1/1617123275355/Microsoft.VisualStudio.Services.Icons.Default" />
-<br />
+**frontend**
 
-#
+![svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
+![react](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![nextjs](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 
-### 📊 Github Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZacharyTa&theme=github_dark&exclude=java)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZacharyTa&theme=github_dark)
-![Zachary's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZacharyTa&theme=github_dark)
+**infra and tools**
+
+![aws](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white)
+![git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## what im doing rn
+
+building analytics for ai agents: instrumentation, annotation pipelines, and background workers that hold up under load
+
+## wanna connect?
+
+[LinkedIn](https://www.linkedin.com/in/zacharycta) · [Email](mailto:zachary.c.ta@gmail.com)
