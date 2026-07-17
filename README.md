@@ -1,6 +1,6 @@
 ![Zachary Ta's card name](https://cardivo.vercel.app/api?name=Zachary&description=Hello,%20I%27m%20a%20fullstack%20engineer.%20Nice%20to%20meet%20ya!%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/71954671?v=4&backgroundColor=%23ecf0f1&linkedin=Zachary%Ta&github=ZacharyTa&pattern=floatingCogs&colorPattern=%23eaeaea)
 
-**`New Grad (Homeless)`**
+**`Founding Fullstack Software Engineer @ Voker (YCS24)`**
 
 Software engineer focused on building reliable LLM-powered and full-stack applications, from backend services to user-facing products
 
